@@ -1,0 +1,12 @@
+{
+  "name": "livebeangraph",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "vis": "^4.16.1"
+  },
+  "devDependencies": {},
+  "author": "Mourad ZOUABI",
+  "license": "ISC"
+}
